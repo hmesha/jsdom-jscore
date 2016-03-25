@@ -1,6 +1,6 @@
 {
     "name": "jsdom-jscore",
-    "version": "0.1.0",
+    "version": "0.1.0-post1",
     "description": "A fork of jsdom/jsdom-little to run within JavaScript Core on iOS, with all dependencies builtin",
     "keywords": ["dom", "w3c", "html"],
     "author": {
